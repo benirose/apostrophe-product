@@ -1,3 +1,3 @@
-# Apostrophe Sandbox
+# Apostrophe Product
 
-The Apostrophe Sandbox is a complete starting point for developing content-managed websites with Apostrophe. Please see the [Apostrophe documentation](http://apostrophenow.org) for a tutorial that begins with setting up this sandbox project.
+This is a repo for cloning apostrophe sites for use as a product. These sites provide a bit more control over layout and design for the DIY site owner, while still focusing on the true power of apostrophe, to stay on mission.
