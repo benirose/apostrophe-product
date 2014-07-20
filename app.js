@@ -2,10 +2,10 @@ var site = require('apostrophe-site')({
 
   // This line is required and allows apostrophe-site to use require() and manage our NPM modules for us.
   root: module,
-  shortName: 'apostrophe-sandbox',
-  hostName: 'apostrophe-sandbox',
-  title: 'Apostrophe Sandbox',
-  sessionSecret: 'apostrophe sandbox demo party',
+  shortName: 'apostrophe-product',
+  hostName: 'apostrophe-product',
+  title: 'Apostrophe Product',
+  sessionSecret: 'apostrophe product demo party',
   adminPassword: 'demo',
 
   // If true, new tags can only be added by admins accessing

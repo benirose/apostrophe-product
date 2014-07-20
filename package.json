@@ -1,16 +1,16 @@
 {
-  "name": "the-new-sandbox",
+  "name": "Apostrophe-Product",
   "version": "0.5.0",
-  "description": "Sandbox site featuring typical Apostrophe features",
+  "description": "An attempt at creating a product version of Apostrophe 2",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/punkave/apostrophe-sandbox"
+    "url": "https://github.com/benirose/apostrophe-product"
   },
-  "author": "P'unk Avenue",
+  "author": "Ben Rosenbach",
   "license": "BSD",
   "dependencies": {
     "apostrophe": "0.5.x",
